@@ -76,6 +76,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   overflow: hidden;
 }
 
+.static-fancy {
+  opacity: 0.20;
+}
+
 .item .item-wrap:after {
   z-index: 2;
   position: absolute;
